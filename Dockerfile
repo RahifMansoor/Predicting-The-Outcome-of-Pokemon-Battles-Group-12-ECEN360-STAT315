@@ -2,9 +2,9 @@
 FROM python:3.10-slim
 
 # Metadata
-LABEL maintainer="Scott A. Bruce <sabruce@tamu.edu>"
+LABEL maintainer="Rahif Mansoor, Emily Thompson, Yanez Sucaedo, Jacob Ralls"
 LABEL version="1.2"
-LABEL description="Python Jupyter notebook development environment"
+LABEL description="Python Jupyter notebook Dev Environment for pokemon.ipynb"
 
 # System packages installation
 RUN apt-get update && apt-get install -y \
