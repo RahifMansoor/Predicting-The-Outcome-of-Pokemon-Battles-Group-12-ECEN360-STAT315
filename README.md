@@ -1,5 +1,26 @@
 # Predicting-The-Outcome-of-Pokemon-Battles-Group-12-ECEN360-STAT315
 
+## Cloning the Git Repository
+
+
+```bash
+git clone https://github.com/RahifMansoor/Predicting-The-Outcome-of-Pokemon-Battles-Group-12-ECEN360-STAT315.git
+```
+Open Terminal or Command Prompt: Open your terminal (Linux or macOS) or command prompt (Windows).
+Execute the Clone Command: Paste the above command into your terminal or command prompt and press Enter. 
+
+## After Cloning
+```bash
+cd Predicting-The-Outcome-of-Pokemon-Battles-Group-12-ECEN360-STAT315
+```
+Now you can start working on the project, make changes, and run the dockerfile
+
+
+
+
+
+
+
 ## Docker Setup for Jupyter Notebook
 
 ### Building the Docker Image
