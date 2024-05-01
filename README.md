@@ -1,5 +1,10 @@
 # Predicting-The-Outcome-of-Pokemon-Battles-Group-12-ECEN360-STAT315
 
+## Overview
+
+All of the code and report are written inside the `pokemon.ipynb` file. The rest of the files are to support the quality of the notebook and enhance readability. 
+To access the the notebook in a controlled docker environment, follow the steps below.
+
 ## Cloning the Git Repository
 
 
