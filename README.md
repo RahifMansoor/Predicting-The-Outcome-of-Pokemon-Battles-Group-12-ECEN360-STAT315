@@ -40,8 +40,8 @@ docker run -v C:/Users/rahif:/home/notebooks -p 8888:8888 -d --name pynb_devcont
 Modify the local file path (/Users/rahif) for the Docker volume specification to match your local file path.
 
 ### Debugging
-If Jupyter is currently open on your system, try and close that first
-Ensure Docker Desktop is open
+If Jupyter is currently open on your system, try and close that first.
+Ensure Docker Desktop is open as well
 
 The link should look something like
 
