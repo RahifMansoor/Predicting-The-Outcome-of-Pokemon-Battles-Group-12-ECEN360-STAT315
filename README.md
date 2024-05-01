@@ -35,7 +35,7 @@ Run the Docker Container:
 Create a Docker container using the following command:
 
 ```bash 
-docker run -v /Users/rahif/Desktop:/home/notebooks -p 8888:8889 --name pynb_devcontainer_new pokepynb_devenv:0.0.2
+docker run -v /Users/rahif/Desktop:/home/notebooks -p 8888:8888 --name pynb_devcontainer_new pokepynb_devenv:0.0.2
 ```
 Modify the local file path (/Users/rahif/Desktop) for the Docker volume specification to match your local file path.
 
