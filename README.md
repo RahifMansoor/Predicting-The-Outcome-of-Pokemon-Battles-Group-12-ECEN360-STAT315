@@ -35,9 +35,9 @@ Run the Docker Container:
 Create a Docker container using the following command:
 
 ```bash 
-docker run -v C:/Users/rahif:/home/notebooks -p 8888:8888 -d --name pynb_devcontainer_new pokepynb_devenv:0.0.2
+docker run -v C:/Users/rahif/Predicting-The-Outcome-of-Pokemon-Battles-Group-12-ECEN360-STAT315:/home/notebooks -p 8888:8888 --name pynb_devcontainer_new pokepynb_devenv:0.0.2
 ```
-Modify the local file path (/Users/rahif) for the Docker volume specification to match your local file path.
+Modify the local file path (/Users/rahif/Predicting-The-Outcome-of-Pokemon-Battles-Group-12-ECEN360-STAT315) for the Docker volume specification to match your local file path.
 
 ### Debugging
 If Jupyter is currently open on your system, try and close that first.
